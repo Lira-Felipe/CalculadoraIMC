@@ -1,0 +1,17 @@
+<resources>
+    <!--activity_main-->
+    <string name="app_name">Calculadora IMC</string>
+    <string name="weightField">Digite seu Peso</string>
+    <string name="heightField">Digite sua Altura</string>
+    <string name="message">Welcome!</string>
+    <string name="button_calculate">Calcular</string>
+
+    <!--activity_result-->
+    <string name="msg_classification">Classificação: %1$s</string>
+    <string name="txt_classification">Abaixo do Peso   &lt; 18.5
+        \nPeso Normal   18.5 - 24.9
+        \nSobrepeso    25 - 29.9
+        \nObesidade    30 - 39.9
+        \nObesidade Extrema &gt; 40</string>
+
+</resources>
